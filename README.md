@@ -1626,6 +1626,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Group Focus - Technology in general, but focusing on provide visibility and resources to women
 - Location - Madrid, Spain
 
+#### Kateryna Osadcha
+- [@twketrin](http://twitter.com/twketrin)
+- [GDG Zaporizhzhia](https://www.meetup.com/ru-RU/GDG-Zaporizhzhia/), Zaporizhzhya, Ukraine
+- Group Focus - Android, Python, programming, coding for kids, Web and Cloud, Women in tech
+- Location - Melitopol, Ukraine
+
 ### Nigeria
 
 #### Ada Nduka Oyom
@@ -1813,6 +1819,17 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics for mentoring - Python, functional programming, general software architecture (databases, systems, network)
 - Location - London, UK (remote contact also ok)
 - Languages besides English - Polish
+
+#### Kateryna Osadcha
+
+- [@twketrin](http://twitter.com/twketrin)
+- [Personal Website](https://about.me/user1468484940)
+- [LinkedIn](https://www.linkedin.com/in/osadcha7/)
+- How to contact - Twitter (DMs open) or okp@mdpu.org.ua
+- Topics for Mentoring - Python, HTML, Information Technology, Public Speaking, Project Management, Community building, Meetups, Presentation
+- Location - Melitopol, Ukraine
+- Languages besides English - Russian, Ukrainian
+- I will help women understand that information technology and programming are not as terrible as it seems.
 
 ### Asia
 
